@@ -32,3 +32,18 @@ web technologies, because this direction provides unlimited opportunities for cr
 and acquire new skills will help me walk this path and become a good Frontend developer.
 
 ---
+
+### [**Skills and Proficiency:**](#skills-and-proficiency)
+
+- #### Delphi, C++ (Basics)
+- #### Borland Delphi 7, Delphi 10.3, [UniGui](http://www.unigui.com/) (Advanced)
+- #### Microsoft SQL Server 2000, 2008R2, 2014 (T-SQL)
+- #### HTML5 (Basics)
+- #### React (Basics)
+- #### CSS3 (Basics)
+- #### JavaScript (Basics)
+- #### GitHub (Basics)
+- #### Editors: Atom, VSCode
+- #### Windows OS, MacOS
+
+---
