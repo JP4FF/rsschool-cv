@@ -102,3 +102,9 @@ function absentVowel(x) {
 - #### RS Schools Course [«JavaScript/Front-end 2022Q1»](https://rs.school/js/) (in progress)
 
 ---
+
+### [**Languages:**](#languages)
+
+- #### Russian - native speaker.
+- #### English - A2 (B1 in progress)
+- #### Spanish - A1 (Beginner).
