@@ -1,1 +1,1 @@
-https://jp4ff.github.io/rsschool-cv/cv
+https://jp4ff.github.io/rsschool-cv/
