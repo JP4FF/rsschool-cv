@@ -81,3 +81,14 @@ function absentVowel(x) {
 ```
 
 ---
+
+### [**Previous projects:**](#projects)
+
+- #### Web-application for reading and filling data for the Republican Register of [Primary Immunodeficiencies](http://178.124.197.87/imreg/).
+- #### Software for reading and editing patient analysis data in the medical registers.
+- #### A programm for extracting patient analysis data from medical registers for futher analysis and usage in scientific research and projects.
+- #### Software for graphical representation of the incidence rate of oncological diseases in the regions of Belarus.
+- #### Software for shreduling and monitoring of hospitalizations of patients.
+- #### Software module for sending notifications of the end of the cord blood storage period to e-mail.
+
+---
