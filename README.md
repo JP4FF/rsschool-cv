@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://jp4ff.github.io/rsschool-cv/cv.md
