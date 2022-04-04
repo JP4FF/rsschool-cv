@@ -92,3 +92,13 @@ function absentVowel(x) {
 - #### Software module for sending notifications of the end of the cord blood storage period to e-mail.
 
 ---
+
+### [**Education:**](#education)
+
+- #### Belarusian State University of informatics and Radioelectronics (Faculty of Computer-Aided Design)
+- #### Courses: Completed state advanced training courses on T-SQL
+- #### RS Schools Course [«JavaScript/Front-end 2021Q3»](https://rs.school/js/)
+- #### Udemy.com (in progress): «[React - The Complete Guide ](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) (incl Hooks, React Router, Redux)»
+- #### RS Schools Course [«JavaScript/Front-end 2022Q1»](https://rs.school/js/) (in progress)
+
+---
