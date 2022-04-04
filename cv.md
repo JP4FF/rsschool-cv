@@ -105,6 +105,6 @@ function absentVowel(x) {
 
 ### [**Languages:**](#languages)
 
-- #### Russian - native speaker.
+- #### Russian - native speaker
 - #### English - A2 (B1 in progress)
-- #### Spanish - A1 (Beginner).
+- #### Spanish - A1 (Beginner)
