@@ -47,3 +47,37 @@ and acquire new skills will help me walk this path and become a good Frontend de
 - #### Windows OS, MacOS
 
 ---
+
+### [**Code example:**](#code-examples)
+
+The task: Your job is to figure out the index of which vowel is missing from a given string:
+
+- A has an index of 0,
+- E has an index of 1,
+- I has an index of 2,
+- O has an index of 3,
+- U has an index of 4.
+
+Notes: There is no need for string validation and every sentence given will contain all vowles but one. Also, you won't need to worry about capitals.
+
+```js
+function absentVowel(x) {
+  if (!x.includes("a")) {
+    return 0;
+  }
+  if (!x.includes("e")) {
+    return 1;
+  }
+  if (!x.includes("i")) {
+    return 2;
+  }
+  if (!x.includes("o")) {
+    return 3;
+  }
+  if (!x.includes("u")) {
+    return 4;
+  }
+}
+```
+
+---
